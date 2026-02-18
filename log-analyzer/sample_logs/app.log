@@ -1,0 +1,11 @@
+```text
+2026-02-17 10:22:01 INFO Application started
+2026-02-17 10:22:05 WARNING Disk usage high
+2026-02-17 10:22:09 ERROR Database connection failed
+2026-02-17 10:25:15 INFO User login successful
+2026-02-17 10:30:20 INFO Scheduled job started
+2026-02-17 10:35:40 WARNING Memory usage high
+2026-02-17 10:40:55 INFO Scheduled job completed
+2026-02-17 10:45:12 ERROR Payment service timeout
+2026-02-17 10:50:01 INFO Application health check OK
+2026-02-17 10:55:10 WARNING CPU usage spike
